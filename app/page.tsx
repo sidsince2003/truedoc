@@ -99,7 +99,7 @@ export default function Siddharth() {
         <div className="w-full max-w-4xl bg-white shadow-lg rounded-xl overflow-hidden">
           <div className="bg-gradient-to-r from-blue-500 to-blue-700 p-6 flex flex-col sm:flex-row items-center">
             <Image
-              src="/Siddharth.jpg"
+              src="/Siddharth.JPG"
               alt="Siddharth Sharma"
               width={120}
               height={120}
